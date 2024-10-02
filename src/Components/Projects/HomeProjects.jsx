@@ -8,10 +8,10 @@ import './HomeProjects.css';
 
 // Dummy data for cards
 const cardsData = [
-  { image: "https://i.postimg.cc/Qtm1sct1/Rectangle-47.png", title: "Building Construction", subtitle: "- Industry" },
-  { image: "https://i.postimg.cc/Qtm1sct1/Rectangle-47.png", title: "Metal Industry", subtitle: "- Industry" },
-  { image: "https://i.postimg.cc/Qtm1sct1/Rectangle-47.png", title: "Bridge Construction", subtitle: "- Industry" },
-  { image: "https://i.postimg.cc/Qtm1sct1/Rectangle-47.png", title: "Car Manufacturing", subtitle: "- Industry" },
+  { image: "https://i.postimg.cc/Qtm1sct1/Rectangle-47.png", title: "The Prothom Alo", subtitle: "- Industry" },
+  { image: "https://i.postimg.cc/Qtm1sct1/Rectangle-47.png", title: "Playdom Bangladesh Limited", subtitle: "- Industry" },
+  { image: "https://i.postimg.cc/Qtm1sct1/Rectangle-47.png", title: "VFS Global", subtitle: "- Industry" },
+  { image: "https://i.postimg.cc/Qtm1sct1/Rectangle-47.png", title: "Philips Bangladesh Ltd", subtitle: "- Industry" },
 ];
 
 const HomeProjects = () => {

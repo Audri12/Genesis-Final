@@ -31,7 +31,7 @@ const ProjectDetailsTemporary = () => {
     <span className="ml-2 text-gray-600 mb-3">Loxicat</span>
   </li>
   <li className="flex items-center ">
-    <div className='text-[#dc6600] mr-2 mb-1' >
+    <div className='text-blue-500 mr-2 mb-1' >
     <CiCreditCard1 />
     </div>
     <span className="font-bold mb-3">Categories:</span>
@@ -53,7 +53,7 @@ const ProjectDetailsTemporary = () => {
   </li>
 </ul>
 
-<button className="mt-4 bg-[#00A1E6] text-white px-8 w-72 py-3 rounded-md hover:bg-orange-600 transition mb-5">
+<button className="mt-4 bg-[#00A1E6] text-white px-8 w-72 py-3 rounded-md hover:bg-blue-500 transition mb-5">
   LIVE PREVIEW
 </button>
 
@@ -67,21 +67,21 @@ const ProjectDetailsTemporary = () => {
 </p>
 <ul className="  space-y-2 text-gray-600">
   <li className='flex '>
-    <div className='text-[#dc6600]'>
+    <div className='text-blue-500'>
   <IoEarthOutline />
   </div>
     <i className="fas fa-map-marker-alt"></i>
     <span className="ml-2 ">121 King Street, Australia</span>
   </li>
   <li className='flex'>
-    <div className='text-[#dc6600]'>
+    <div className='text-blue-500'>
   <SlEnvolopeLetter />
   </div>
     <i className="fas fa-envelope"></i>
     <span className="ml-2">example@gmail.com</span>
   </li>
   <li className='flex'>
-  <div className='text-[#dc6600]'>
+  <div className='text-blue-500'>
   <SlEnvolopeLetter />
   </div>
     <i className="fas fa-phone"></i>
@@ -121,7 +121,7 @@ const ProjectDetailsTemporary = () => {
           </div>
           <button 
             type="submit" 
-            className="w-full  bg-[#00A1E6] text-white py-4 rounded-md hover:bg-orange-600 transition"
+            className="w-full  bg-[#00A1E6] text-white py-4 rounded-md hover:bg-blue-500 transition"
           >
             REQUEST SUBMIT
           </button>

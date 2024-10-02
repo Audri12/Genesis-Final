@@ -16,12 +16,12 @@ const NavInfo = () => {
                 <div className='relative flex items-center text-white px-4 py-2'>
                     <div className="flex items-center gap-2">
                         <IoLocationOutline />
-                        <h3>531, Dhaka, Bangladesh</h3>
+                        <h3> Mirpur DOHS, Dhaka-1216, Bangladesh</h3>
                     </div>
                     <div className='mx-2'>|</div>
                     <div className='flex items-center gap-2'>
                         <CiLocationArrow1 />
-                        <h3>example@gmail.com</h3>
+                        <h3>marketing@gtl.com.bd</h3>
                     </div>
                 </div>
 
